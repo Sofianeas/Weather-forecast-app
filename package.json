@@ -1,0 +1,20 @@
+{
+    "name": "weather-app",
+    "version": "1.0.0",
+    "description": "A simple weather forecast app with Node.js and Express",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sofiane AOUES",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2",
+      "node-fetch": "^3.3.2"
+    },
+    "devDependencies": {
+      // Add your development dependencies here, if any
+    }
+  }
+  
